@@ -20,8 +20,8 @@
             <dependent_value/>
             <element>u_choice_4</element>
             <hint/>
-            <inactive>false</inactive>
-            <label>Choice 1</label>
+            <inactive>true</inactive>
+            <label>Facilities</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>0</sequence>
@@ -30,9 +30,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>a93644702fe260103f6711c82799b689</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-02-22 18:20:18</sys_updated_on>
+            <sys_updated_on>2021-02-24 16:36:26</sys_updated_on>
             <value>Choice 1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -40,7 +40,26 @@
             <element>u_choice_4</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Choice 2</label>
+            <label>Facilities</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-24 08:17:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c66fc8512fa6a0103f6711c82799b61d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-24 08:17:27</sys_updated_on>
+            <value>Facilities 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Legal</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>1</sequence>
@@ -48,18 +67,18 @@
             <sys_created_on>2021-02-22 18:20:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>613644702fe260103f6711c82799b68c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>213644702fe260103f6711c82799b68e</sys_id>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-02-22 18:20:18</sys_updated_on>
-            <value>Choice 2</value>
+            <sys_updated_on>2021-02-24 16:36:26</sys_updated_on>
+            <value>Choice 3</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_choice_4</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Choice 3</label>
+            <label>Human</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>2</sequence>
@@ -67,11 +86,49 @@
             <sys_created_on>2021-02-22 18:20:18</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>213644702fe260103f6711c82799b68e</sys_id>
+            <sys_id>613644702fe260103f6711c82799b68c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-24 16:36:26</sys_updated_on>
+            <value>Choice 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-24 08:17:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce6fc8512fa6a0103f6711c82799b61f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-24 16:36:26</sys_updated_on>
+            <value>Legal 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>other</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-24 16:36:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>639182552faaa0103f6711c82799b62d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-02-22 18:20:18</sys_updated_on>
-            <value>Choice 3</value>
+            <sys_updated_on>2021-02-24 16:36:26</sys_updated_on>
+            <value>other</value>
         </sys_choice>
     </sys_choice>
 </record_update>
